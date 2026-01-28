@@ -15,7 +15,7 @@ This project implements a hierarchical network design for the Liwag Building usi
 | VLAN | Purpose |
 |-----|--------|
 | 10 | Admin |
-| 20 | Faculty / CSS |
+| 20 | Faculty |
 | 30 | 2nd Floor Lab |
 | 40 | 3rd Floor Lab |
 | 50 | 4th Floor Lab |
